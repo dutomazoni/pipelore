@@ -1,6 +1,8 @@
 # Rodando as duas aplicações com Docker Compose
 
 ```bash
+# Clonar o repositório
+git clone [URL_DO_REPOSITÓRIO]
 # Navegar até a pasta do frontend
 cd pipelore-frontend-next
 
