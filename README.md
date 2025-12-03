@@ -2,7 +2,7 @@
 
 ```bash
 # Clonar o repositório
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/dutomazoni/pipelore.git
 # Navegar até a pasta do frontend
 cd pipelore-frontend-next
 
